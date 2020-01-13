@@ -1,0 +1,153 @@
+@media screen and (min-width: 0px) and (max-width: 800px) {
+  .header {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .header__logo {
+    width: 90px;
+    height: 100px;
+  }
+  .header__section {
+    display: flex;
+    flex-direction: column;
+  }
+  .section__items-1 {
+    display: flex;
+    flex-direction: column;
+    margin: 40px 0 0 0;
+  }
+  .section__items-2 {
+    display: flex;
+    flex-direction: column;
+    margin: 20px 0 0 20px;
+  }
+  .section__items-3 {
+    display: flex;
+    flex-direction: row;
+    margin: 20px 0 0 20px;
+  }
+  .text-1 {
+    font-size: 35px;
+    color: #262626;
+    margin: -30px 20px 0 5px;
+  }
+  .text-2 {
+    padding: 5px;
+    width: 150px;
+    margin: 10px 0 0 5px;
+  }
+  .text-3,
+  .text-4,
+  .text-5 {
+    font-size: 17px;
+    color: #3d4044;
+    padding: 10px 5px 0 0;
+  }
+  .text-6 {
+    font-size: 17px;
+    color: #262626;
+    margin: 0 0 0 -15px;
+  }
+  #datepicker,
+  #datepicker2 {
+    margin: 0 0 0 5px;
+    width: 130px;
+  }
+
+  .items__row {
+    display: flex;
+    flex-direction: column;
+  }
+  .image {
+    margin: 0 0px 30px 0px;
+  }
+  .image-2 {
+    margin: 0 0px 30px 0px;
+  }
+  .image-3 {
+    margin: 0 0px 30px 0px;
+  }
+
+  .image-4 {
+    margin: 0 0px 30px 0px;
+  }
+  .image-5 {
+    margin: 0 0px 30px 0px;
+  }
+  .image-6 {
+    margin: 0 0px 30px 0px;
+  }
+  .image-7 {
+    margin: 0 0px 30px 0px;
+  }
+  .image-8 {
+    margin: 0 0px 30px 0px;
+  }
+  .image-9 {
+    margin: 0 0px 30px 0px;
+  }
+
+  .main__btn {
+    margin: 10px 0 30px 0px;
+  }
+}
+@media screen and (min-width: 800px) and (max-width: 1024px) {
+  .main {
+    background-color: #fafafa;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 30px 0 0 0;
+  }
+  .main__items {
+    display: flex;
+    flex-direction: column;
+    margin: 40px 0 0 0;
+  }
+
+  .image {
+    margin: 0 0 30px 0;
+  }
+
+  .image-2 {
+    margin: 0 0px 0 0;
+  }
+
+  .image-4 {
+    margin: 0 0px 0 0;
+  }
+  .image-5 {
+    margin: 0 0px 30px 0;
+  }
+
+  .image-7 {
+    margin: 0 0px 30px 0;
+  }
+  .image-8 {
+    margin: 0 0px 30px 0;
+  }
+
+  .part-1 {
+    padding: 0 20px 0 30px;
+  }
+  .part-2 {
+    padding: 0 30px 0 0;
+  }
+  .main__icon {
+    padding: 0 5px 0 0;
+  }
+  .part-3 {
+    padding: 0 5px 0 20px;
+  }
+  .part-4 {
+    padding: 0 38px 0 0;
+  }
+  .part-5 {
+    padding: 0 20px 0 0;
+  }
+  .part-6 {
+    padding: 0 53px 0 0;
+  }
+}
